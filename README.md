@@ -3,6 +3,8 @@
 This repository contains recreational old (2023 and older) OS designs by [akai-keisanki](https://github.com/akai-keisanki) in PNG format.
 The organisations mentioned in these designs are entirely fictional.
 
+Please note that a big part of the designs documented in this repository features several English mistakes. Even tough the files have been uploaded through 2026, many of these images are part of personal fictions from 2020 and on (when I was 11+ years old, around the time the COVID pandemic rose in Brazil).
+
 ## Included Collections
 
 4LV5 (Operating) Systems
