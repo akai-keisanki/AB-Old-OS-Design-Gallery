@@ -4,7 +4,7 @@ This repository contains old recreational OS designs (up to 2024) by [akai-keisa
 The organisations mentioned in these designs are entirely fictional.
 
 Please note that many of the designs documented in this repository contain some awkward phrasing or English mistakes.
-Even though the files were uploaded in 2026, these images are part of personal fictional universes starting in 2020 (when I was 11 years old, around the time the COVID pandemic hit Brazil), being digitally designed when I was from 11 y.o. to 15 y.o..
+Even though the files were uploaded in 2026, these images are part of personal fictional universes starting in 2020 (when I was 11 years old, around the time the COVID pandemic hit Brazil), being digitally designed when I was 11-15 y.o..
 
 ## Included Collections
 
