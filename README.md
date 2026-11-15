@@ -1,9 +1,9 @@
 # Old-OS-Design-Gallery
 
-This repository contains recreational old (2023 and older) OS designs by [akai-keisanki](https://github.com/akai-keisanki) in PNG format.
+This repository contains old recreational OS designs (up to 2024) by [akai-keisanki](https://github.com/akai-keisanki) in PNG format.
 The organisations mentioned in these designs are entirely fictional.
 
-Please note that a big part of the designs documented in this repository features several English mistakes. Even tough the files have been uploaded through 2026, many of these images are part of personal fictions from 2020 and on (when I was 11+ years old, around the time the COVID pandemic rose in Brazil).
+Please note that many of the designs documented in this repository contain some awkward phrasing or English mistakes. Even though the files were uploaded in 2026, these images are part of personal fictional universes starting in 2020 (when I was 11 years old, around the time the COVID pandemic hit Brazil), being produced when I was from 11 y.o. to 15 y.o..
 
 ## Included Collections
 
